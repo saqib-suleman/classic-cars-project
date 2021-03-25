@@ -362,6 +362,13 @@ section.change {
 /* End of Section 5 */
 
 /* Responsive */
+
+@media (max-width: 1700px) {
+  html {
+    font-size: 50%;
+  }
+}
+
 @media (max-width: 1500px) {
   .navbar {
     width: 20vw;
